@@ -1,0 +1,11 @@
+node_modules/
+.vscode/
+.DS_Store
+.env
+.idea/
+logs/core-*
+.nyc_output/
+.scannerwork
+coverage
+public/uploads/category/*
+public/uploads/tag/*
